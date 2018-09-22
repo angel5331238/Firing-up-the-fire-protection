@@ -1,4 +1,4 @@
-```matlab
+
 
 clear all;clc
 
@@ -355,6 +355,3 @@ SE = prec_std/sqrt(2039-2020+1);
 zscore = (rcp85_ensemble-prec_annualmean)/SE   %rcp85: 4.5760 -> significant!
 
 %%
-
-
-```
